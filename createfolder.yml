@@ -6,3 +6,4 @@
     file:
       path: /etc/thisisnewexample
       state:  directory
+    become: yes
