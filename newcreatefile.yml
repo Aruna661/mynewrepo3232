@@ -6,4 +6,4 @@
     file:
       path: /home/new
       state:  directory
-    
+    become: yes
