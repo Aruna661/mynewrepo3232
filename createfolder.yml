@@ -1,0 +1,8 @@
+---
+- name: create folder on particular path
+  hosts:  all
+  tasks:
+  - name: foldercreation
+    file:
+      path: /etc/thisisnewexample
+      state:  directory
