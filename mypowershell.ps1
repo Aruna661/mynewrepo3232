@@ -1,1 +1,1 @@
-write-host "This is from gitrithomitklsts"
+new-item c:\users\aru -ItemType Directory
