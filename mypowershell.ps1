@@ -1,1 +1,1 @@
-write-host "This is from githuithomitklsts"
+write-host "This is from gitrithomitklsts"
